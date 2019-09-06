@@ -1,2 +1,2 @@
 # FileTextSearch
-outputs equal lines of text in 2 files
+outputs equal lines of text from 2 files
